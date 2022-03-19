@@ -6,10 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to bottom,#33ccff 0%, #ff99cc 100%);
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 100%;
 }
 
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(204, 248, 6);
 }
 
 h1 {
@@ -35,7 +35,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   margin-top: .5em;
 }
 
